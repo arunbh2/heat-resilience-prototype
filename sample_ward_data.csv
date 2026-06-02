@@ -1,0 +1,6 @@
+wardName,heatExposure,populationDensity,informalSettlement,treeCover,healthAccess,workerExposure,notes
+Ward 5 - Central Market,91,26500,55,8,42,88,"Dense market, bus stop, street vendors, low shade."
+Ward 9 - Industrial Edge,86,16800,35,10,38,92,"Factory workers and loading areas. Few resting spaces."
+Ward 2 - Old Settlement,79,23000,62,14,52,50,"Dense housing, likely poor ventilation, elderly residents."
+Ward 11 - University Area,68,12000,18,32,75,35,"More institutional land and tree cover."
+Ward 14 - Transport Node,84,19000,30,12,58,78,"Bus stand, loaders, rickshaw drivers, high daytime exposure."
